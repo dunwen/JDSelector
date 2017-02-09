@@ -9,7 +9,7 @@
 
 
 ## 效果
-
+![](https://github.com/dunwen/JDSelector/blob/master/capture.gif)
 
 ## 使用
 
