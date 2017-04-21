@@ -52,3 +52,7 @@
         dialog.init(this,selector); //selector 按照上面的方法初始化
         dialog.show();
 ```
+
+## 许可证
+edit from [JDAddressSelector](https://github.com/chihane/JDAddressSelector) 
+[MIT License](http://chihane.in/license)
