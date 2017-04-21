@@ -54,5 +54,5 @@
 ```
 
 ## 许可证
-edit from [JDAddressSelector](https://github.com/chihane/JDAddressSelector) 
+edit from [JDAddressSelector](https://github.com/chihane/JDAddressSelector)   
 [MIT License](http://chihane.in/license)
